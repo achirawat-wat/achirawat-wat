@@ -152,9 +152,8 @@ Tech
 
 ## 📫 Contact
 
-- Email: your@email.com
-- Portfolio: https://your-portfolio.com
-- LinkedIn: https://linkedin.com/in/yourname
+- Email: achirawat.wat@gmail.com
+- Tel. : 096-368-8383
 
 ---
 
