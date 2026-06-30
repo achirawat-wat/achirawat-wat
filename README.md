@@ -27,7 +27,6 @@ Currently interested in
 - ☁️ Supabase & Firebase
 - 🔌 ESP32 & Arduino
 - 🤖 AI-powered Applications
-- 🎮 Game Development (Roblox)
 
 ---
 
